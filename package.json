@@ -1,0 +1,22 @@
+{
+    "name": "@pexip/police-workflow-plugin",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "vite",
+        "build": "vite build"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@pexip/plugin-api": "workspace:*"
+    },
+    "devDependencies": {
+        "prettier": "^2.7.1",
+        "typescript": "^4.8.4",
+        "vite": "^3.2.2"
+    }
+}
